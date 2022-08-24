@@ -1,2 +1,2 @@
-# repo_modelo
+# repo_template
 Repositório de modelo
